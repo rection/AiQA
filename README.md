@@ -1,5 +1,4 @@
-[2026-05-03-ai-assistant-design.md](https://github.com/user-attachments/files/27383393/2026-05-03-ai-assistant-design.md)
-# AiQA# AI 问答助手 — 系统设计文档
+问答助手 — 系统设计文档
 
 > 版本：v1.0 | 日期：2026-05-03
 
